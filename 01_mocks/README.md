@@ -1,7 +1,3 @@
-# Clean code and unit testing
-
-Each of the folders contain the example code for a specific lecture.
-
 # Commands to build and run
 Ensure you already installed the latest nodejs LTS version: https://nodejs.org/en/download
 

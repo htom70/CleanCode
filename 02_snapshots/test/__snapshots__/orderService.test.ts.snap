@@ -1,0 +1,191 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`OrderService tests should return all the users who made an order in the last hour 1`] = `
+[
+  User {
+    "address": {
+      "city": "Anytown",
+      "street": "123 Main St",
+      "zipCode": "12345",
+    },
+    "dateOfBirth": 1990-01-15T00:00:00.000Z,
+    "email": "john@example.com",
+    "firstName": "John",
+    "id": 1,
+    "isActive": true,
+    "lastName": "Doe",
+    "phoneNumber": "123-456-7890",
+    "roles": [
+      "user",
+      "admin",
+    ],
+    "username": "john_doe",
+  },
+  User {
+    "address": {
+      "city": "Anytown",
+      "street": "123 Main St",
+      "zipCode": "12345",
+    },
+    "dateOfBirth": 1990-01-15T00:00:00.000Z,
+    "email": "john@example.com",
+    "firstName": "John",
+    "id": 1,
+    "isActive": true,
+    "lastName": "Doe",
+    "phoneNumber": "123-456-7890",
+    "roles": [
+      "user",
+      "admin",
+    ],
+    "username": "john_doe",
+  },
+  User {
+    "address": {
+      "city": "Anytown",
+      "street": "123 Main St",
+      "zipCode": "12345",
+    },
+    "dateOfBirth": 1990-01-15T00:00:00.000Z,
+    "email": "john@example.com",
+    "firstName": "John",
+    "id": 1,
+    "isActive": true,
+    "lastName": "Doe",
+    "phoneNumber": "123-456-7890",
+    "roles": [
+      "user",
+      "admin",
+    ],
+    "username": "john_doe",
+  },
+  User {
+    "address": {
+      "city": "Anytown",
+      "street": "123 Main St",
+      "zipCode": "12345",
+    },
+    "dateOfBirth": 1990-01-15T00:00:00.000Z,
+    "email": "john@example.com",
+    "firstName": "John",
+    "id": 1,
+    "isActive": true,
+    "lastName": "Doe",
+    "phoneNumber": "123-456-7890",
+    "roles": [
+      "user",
+      "admin",
+    ],
+    "username": "john_doe",
+  },
+]
+`;
+
+exports[`OrderService tests should return all the users who made an order in the last hour 2`] = `
+[MockFunction] {
+  "calls": [
+    [
+      1,
+    ],
+    [
+      2,
+    ],
+    [
+      3,
+    ],
+    [
+      4,
+    ],
+  ],
+  "results": [
+    {
+      "type": "return",
+      "value": User {
+        "address": {
+          "city": "Anytown",
+          "street": "123 Main St",
+          "zipCode": "12345",
+        },
+        "dateOfBirth": 1990-01-15T00:00:00.000Z,
+        "email": "john@example.com",
+        "firstName": "John",
+        "id": 1,
+        "isActive": true,
+        "lastName": "Doe",
+        "phoneNumber": "123-456-7890",
+        "roles": [
+          "user",
+          "admin",
+        ],
+        "username": "john_doe",
+      },
+    },
+    {
+      "type": "return",
+      "value": User {
+        "address": {
+          "city": "Anytown",
+          "street": "123 Main St",
+          "zipCode": "12345",
+        },
+        "dateOfBirth": 1990-01-15T00:00:00.000Z,
+        "email": "john@example.com",
+        "firstName": "John",
+        "id": 1,
+        "isActive": true,
+        "lastName": "Doe",
+        "phoneNumber": "123-456-7890",
+        "roles": [
+          "user",
+          "admin",
+        ],
+        "username": "john_doe",
+      },
+    },
+    {
+      "type": "return",
+      "value": User {
+        "address": {
+          "city": "Anytown",
+          "street": "123 Main St",
+          "zipCode": "12345",
+        },
+        "dateOfBirth": 1990-01-15T00:00:00.000Z,
+        "email": "john@example.com",
+        "firstName": "John",
+        "id": 1,
+        "isActive": true,
+        "lastName": "Doe",
+        "phoneNumber": "123-456-7890",
+        "roles": [
+          "user",
+          "admin",
+        ],
+        "username": "john_doe",
+      },
+    },
+    {
+      "type": "return",
+      "value": User {
+        "address": {
+          "city": "Anytown",
+          "street": "123 Main St",
+          "zipCode": "12345",
+        },
+        "dateOfBirth": 1990-01-15T00:00:00.000Z,
+        "email": "john@example.com",
+        "firstName": "John",
+        "id": 1,
+        "isActive": true,
+        "lastName": "Doe",
+        "phoneNumber": "123-456-7890",
+        "roles": [
+          "user",
+          "admin",
+        ],
+        "username": "john_doe",
+      },
+    },
+  ],
+}
+`;

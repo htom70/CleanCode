@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Repository tests Happy path should return the user when retrieved by username 1`] = `
+User {
+  "dateOfBirth": 1990-01-15T00:00:00.000Z,
+  "email": "john@example.com",
+  "firstName": "John",
+  "id": 1,
+  "lastName": "Doe",
+  "username": "john_doe",
+}
+`;

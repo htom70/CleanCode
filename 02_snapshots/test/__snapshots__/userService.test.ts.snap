@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UserService tests Given I have an existing user, When I want to retrive it by ID, Then the user with all properties is returned 1`] = `
+User {
+  "address": {
+    "city": "Anytown",
+    "street": "123 Main St",
+    "zipCode": "12345",
+  },
+  "dateOfBirth": 1990-01-15T00:00:00.000Z,
+  "email": "john@example.com",
+  "firstName": "John",
+  "id": 1,
+  "isActive": true,
+  "lastName": "Doe",
+  "phoneNumber": "123-456-7890",
+  "roles": [
+    "user",
+    "admin",
+  ],
+  "username": "john_doe",
+}
+`;
