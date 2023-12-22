@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UserRepository should return all the usernames 1`] = `
+[
+  "spider man",
+  "captain marvel",
+]
+`;
